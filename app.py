@@ -116,15 +116,15 @@ div[data-testid="stSelectbox"]{
 # Header
 # ---------------------------------------
 
-st.markdown("<div class='big-title'>🩺 Chronic Kidney Disease Prediction</div>",
+st.markdown("<div class='big-title'>Chronic Kidney Disease Prediction</div>",
             unsafe_allow_html=True)
 
 st.markdown(
-"<div class='sub-title'>Developed by <b>Muhammad Akhtar</b> | 📱03215261156</div>",
+"<div class='sub-title'>Developed by <b>Muhammad Akhtar</div>",
 unsafe_allow_html=True)
 
 #st.divider()
-st.subheader("👤 Patient Details")
+st.subheader("Patient Details")
 # ---------------------------------------
 # Three Columns
 # ---------------------------------------
